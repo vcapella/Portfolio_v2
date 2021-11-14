@@ -27,7 +27,7 @@ Using HTML and CSS skills I've learned so far I used the following tools in this
 * Footer fixed 
 
 ## Live Link
- [My portoflio page](https://)
+ [My portoflio page](https://vcapella.github.io/Portfolio_v2/)
 ## Screenshot of projects added
 ![muscles_and_meals_project1](https://user-images.githubusercontent.com/90168071/141664923-23114bf0-7f0f-4edf-8a51-621afd619356.JPG)
 <img width="1399" alt="spooky_sights_project2" src="https://user-images.githubusercontent.com/90168071/141664925-c5f2ac9f-5403-48ae-b2c9-0324580fc310.png">
